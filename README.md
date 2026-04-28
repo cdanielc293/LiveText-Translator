@@ -37,7 +37,7 @@ pip install -r requirements.txt
 Run the script:
 
 Bash
-python game_translator.py
+python LiveText-Translator.py
 Pro Tip: For the best experience, compile it to an EXE using PyInstaller and run as Administrator to allow global hotkey listening.
 
 🌍 Customize Your Experience
